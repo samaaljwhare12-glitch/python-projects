@@ -1,1 +1,1 @@
-python-projects
+py-projects
