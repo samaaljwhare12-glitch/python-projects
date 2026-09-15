@@ -1,0 +1,6 @@
+name=input('Enter your name : ')
+print('Your name is : '+name)
+age=int(input('Enter your age : '))
+print('Your age is : '+str(age))
+gpa=float(input('Enter your gpa : '))
+print('Your gpa is : '+str(gpa))
