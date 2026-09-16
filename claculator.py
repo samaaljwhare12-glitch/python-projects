@@ -1,0 +1,8 @@
+print('Welcome to calculator app\n')
+num1=float(input('First number : '))
+num2=float(input('Second number : '))
+print('Adding : '+str(num1+num2))
+print('Subtract : '+str(num1*num2))
+print('Multiply : '+str(num1*num2))
+print('Divide : '+str(num1-num2))
+print('Modulus : '+str(num1%num2))
