@@ -19,7 +19,7 @@ elif drink == 'tea':
     if type_of_tea == 'Green':
         print('Green tea')
 
-    elif type_of_tea == 'Red':
+    elif type_of_tea == 'Red': 
         print('Red tea')
 
     else:
