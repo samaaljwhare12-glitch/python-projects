@@ -1,3 +1,4 @@
+#by sama aljwhari
 print('*')
 print('**')
 print('***')
