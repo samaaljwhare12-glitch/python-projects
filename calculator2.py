@@ -1,3 +1,4 @@
+#by sama aljwhari
 num1 = float(input('Enter the first number: '))
 oper = input('Choose an operation (+, -, *, /, %): ')
 num2 = float(input('Enter the second number: '))
