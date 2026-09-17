@@ -1,4 +1,4 @@
-#sama aljwhari
+#by sama aljwhari
 #while
 i=5
 while i<10 :
