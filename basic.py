@@ -1,3 +1,4 @@
+#by sama aljwhari
 #جمع نصوص
 name='sama'
 print('hello '+ name)
