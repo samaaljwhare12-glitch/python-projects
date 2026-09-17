@@ -1,3 +1,4 @@
+#by sama aljwhari
 #جعل اول حرف كبير 
 name='sama aljwhari'
 print(name.capitalize())
