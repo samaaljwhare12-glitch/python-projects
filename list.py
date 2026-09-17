@@ -1,3 +1,4 @@
+#by sama aljwhari
 list1=['Maya','Sedra','Sama','Malik']
 print(list1)
 list2=['Malak','Fadi','Naya']
