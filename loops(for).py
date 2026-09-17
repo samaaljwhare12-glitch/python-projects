@@ -1,4 +1,4 @@
-#sama aljwhari
+#by sama aljwhari
 #for in
 for s in range (5):
 	print ('sama')
