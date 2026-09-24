@@ -1,0 +1,46 @@
+#انشاء array اصفار نوع int
+import numpy as np
+s=np.zeros(10, dtype=int)
+print(s)
+print('\n')
+#انشاء array اصفار نوع float
+v=np.zeros(5,dtype=float)
+print(v)
+print('\n')
+#انشاء array رقم واحد نوع int
+b=np.ones(4,dtype=int)
+print(b)
+print('\n')
+#انشاء array رقم واحد نوع float
+p=np.ones(8,dtype=float)
+print(p)
+print('\n')
+#انشاء array بتحديد عدد الصفوف والاعمدة
+o=np.ones((2,3),dtype=int)
+print(o)
+print('\n')
+
+u=np.ones((4,10,3),dtype=int)
+print(u)
+print('\n')
+r=np.full((4,5),9,dtype=int)
+print(r)
+print('\n')
+k=np.arange(0,11)
+print(k)
+print('\n')
+f=np.arange(0,21,2)
+print(f)
+print('\n')
+e=np.random.random((2,2))
+print(e)
+print('\n')
+a=np.random.normal(0,1,(2,2))
+print(a)
+print('\n')
+#matrix
+g=np.eye(5)
+print(g)
+print('\n')
+c=np.empty((3))
+print(c)
