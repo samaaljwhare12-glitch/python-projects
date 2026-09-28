@@ -1,4 +1,4 @@
-#split
+ #split
 a='i love python'
 print(a.split())
 b='i-love-python'
